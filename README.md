@@ -16,6 +16,7 @@
 - Predicts needs: \"Based on summer trends, expect 20% spike next week; pre-cool home now.\"
 - AI improves efficiency: Reinforcement learning refines suggestions over time, e.g., learning your TV binge-watches to preemptively dim unused lights.
 
+
 ### 3. Remote Appliance Control
 - Voice/text commands or app sliders to turn off/on devices remotely.
 - Automated scheduling: Geofencing triggers \"away mode\" (e.g., lower thermostat when you leave).
